@@ -6,3 +6,4 @@ Link to problems can be found [here](https://www.hackerrank.com/domains/algorith
 
 * [Warmup](warmup)
 * [Implementation](implementation)
+* [Graph Theory](graph-theory)
